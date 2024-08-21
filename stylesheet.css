@@ -1,0 +1,36 @@
+body{
+    background-color: beige;
+}
+.Name{
+    background-color:cyan;
+    border:3px solid black;
+    margin:auto;
+    font-size: 30px;
+}
+.img{
+    background-color: bisque;
+    border:3px solid black outset;
+}
+.b{
+    background-color: fuchsia;
+    font-size:  25px;
+    margin:auto;
+    border:2px solid black;
+
+}
+footer{
+    padding-top: 15px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    height:50px;
+    font-size: 20px;
+    font-weight: 10px;
+
+}
+*{
+    margin: 0%;
+}
+p{
+    padding: 4px;
+}
